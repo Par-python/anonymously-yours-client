@@ -2,7 +2,7 @@ document.getElementById('LoadingScreenLogo').addEventListener("click", () => {
     document.getElementById('LoadingScreenLogo').style.display = 'none';
     document.getElementById('messages').style.display = 'flex';
     document.getElementById('notes').style.display = 'flex';
-    document.getElementById('page-count').style.display ='flex'
+    document.getElementById('page-count').style.display ='flex';
 })
 
 function posts(){
